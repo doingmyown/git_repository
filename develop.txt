@@ -1,1 +1,2 @@
+ロカールを変更しました。
 develop-fixed
